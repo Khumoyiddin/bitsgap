@@ -11,8 +11,14 @@ Khumoyiddin (Din)
 ## Screenshots and screen recording
 https://github.com/user-attachments/assets/73f96fd4-c831-4e4b-94f8-3aa2f9ee5940
 
-
+Screenshot on iPhone SE (3rd generation)
 ![iPhone SE (3rd generation)](https://github.com/user-attachments/assets/c99215ae-6888-411f-9255-38e213b174c4)
+
+Screenshot on iPhone 16 Pro Max
 ![iPhone 16 Pro Max](https://github.com/user-attachments/assets/4665cd9f-8c7e-41f2-b8bc-2cf3ac79bd0c)
+
+Screenshot on iPhone 16 Pro
 ![iPhone 16 Pro](https://github.com/user-attachments/assets/618d7f39-93d6-470d-9927-567a9d6023b2)
+
+Screenshot on Android Pixel 7 Pro
 ![Android Pixel 7 Pro](https://github.com/user-attachments/assets/5ea05446-c9c4-4dea-85f2-00d815058429)
